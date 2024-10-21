@@ -1,10 +1,8 @@
-# Embreo Tech Test
-
-By Muhamad Putra Satria
+# Wellness Event
 
 ## Table of Contents
 
-- [Requirements Test](#requirements-test)
+- [Requirements](#requirements)
 - [How To Run Project Backend](#how-to-run-project-backend)
 - [How To Run Project Frontend](#how-to-run-project-frontend)
 - [API Structure](#api-structure)
@@ -31,7 +29,7 @@ By Muhamad Putra Satria
   password: 12345
   ```
 
-### Requirements Test
+### Requirements
 
 here I attach some requirements files that I have done
 
