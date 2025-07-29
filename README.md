@@ -37,7 +37,7 @@ here I attach some requirements files that I have done
 - [Documentation API](https://documenter.getpostman.com/view/20326240/2sAXjKbYrH)
 - Deploy Link
   - [Backend](https://embreo-be.vercel.app/)
-  - [Frontend](https://embreo-fe.vercel.app/)
+  - [Frontend](https://wellnest-event.vercel.app/)
 
 ### How To Run Project Backend
 
@@ -45,7 +45,7 @@ here I attach some requirements files that I have done
   Clone repository:
 
   ```bash
-  git clone https://github.com/mpsalunggg/embreo.git
+  git clone https://github.com/mpsalunggg/wellnest-event.git
   cd embreo
   cd backend
   ```
@@ -83,8 +83,8 @@ here I attach some requirements files that I have done
   Clone repository:
 
   ```bash
-  git clone https://github.com/mpsalunggg/embreo.git
-  cd embreo
+  git clone https://github.com/mpsalunggg/wellnest-event.git
+  cd wellnest-event
   cd frontend
   ```
 
